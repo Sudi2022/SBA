@@ -45,4 +45,3 @@ Gains and lift charts are generated for model evaluation.
 Comparison of the Models:
 Models are compared based on accuracy, sorted in ascending order.
 
-![image](https://github.com/Sudi2022/SBA/assets/119705393/5114032f-03b7-473d-8cfa-6e0c5f65b75a)

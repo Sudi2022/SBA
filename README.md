@@ -1,4 +1,8 @@
+
 # SBA
+
+Libraries : pandas, numpy, scikit-learn, matplotlib, seaborn, tensorflow, keras, statsmodels, scipy, geopandas
+
 Project Overview:
 This project aims to develop a predictive model to determine whether a loan should be approved or denied using data from the Small Business Administration (SBA) National Data. The goal is to provide insights to lending institutions for better decision-making processes.
 
